@@ -1,3 +1,12 @@
+## thinngs to change ::
+# : task_name="SEGA"
+# : generate_dataset_json 
+# line  labels 
+# label_ending = ".nii.gz",
+# line dataset_id 
+# line path to nnunet name format dataset 
+
+
 import os
 import shutil
 from pathlib import Path
