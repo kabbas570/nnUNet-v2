@@ -1,10 +1,10 @@
 ## thinngs to change ::
-# line 14 : task_name="SEGA"
-#line  60 : modalities 
-# line  65 :  labels 
-# line 71 : label_ending = ".nii.gz",
-# line 90 : dataset_id 
-# line 94 : path to nnunet name format dataset 
+# : task_name="SEGA"
+# : generate_dataset_json 
+# line  labels 
+# label_ending = ".nii.gz",
+# line dataset_id 
+# line path to nnunet name format dataset 
 
 
 import os
